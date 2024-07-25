@@ -82,7 +82,7 @@ Ensure you have the required CSV file with Iris data.
 python main.py
 ```
 
-## Main Results
+## Example of Results
 
 #### Distribution of samples by species (with percentages):
 
