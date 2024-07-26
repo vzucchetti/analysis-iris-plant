@@ -1,8 +1,6 @@
 # Iris Project
 
-This project analyzes a dataset of Iris plant characteristics, focusing on three species: *Iris versicolor*, *Irisi setosa*, and *Iris virginica*. The data set contains information about petal and sepal dimensions. The project is divided into two phases, outlined below.
-
-In this project, the aim was to construct a program that do analysis using a dataset of Iris plant. The dataset present information of three species of Iris (I. versicolor, I. sectosa, I. virginica) about the length and width of two floral structures of the plant (petal and sepal). The solution was splited in two phases.
+In this project, the aim was to construct a program that do analysis using a dataset of Iris plant. The dataset present information of three species of Iris (I. versicolor, I. sectosa, I. virginica) about the length and width of two floral structures of the plant (petal and sepal).
 
 ## Objectives
 
